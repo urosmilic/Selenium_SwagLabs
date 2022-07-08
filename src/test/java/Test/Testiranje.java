@@ -154,25 +154,4 @@ public class Testiranje extends BaseTest {
         Assert.assertFalse(check);
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
